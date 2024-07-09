@@ -4,7 +4,6 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" type="text/css" href="style_sidebarrr.css">
     <link rel="stylesheet" href="./bootstrap-5.3.0-dist/css/bootstrap.min.css">
-
     <title>Login</title>
 </head>
 <body class="bg-dark d-flex align-items-center justify-content-center" style="height: 100vh; background-color: #2293df;">
